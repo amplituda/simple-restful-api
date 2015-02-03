@@ -1,0 +1,8 @@
+{"tiltle":"Star Wars: Episode III","_id":"71WP96CdACSPMVpy","rating":"5"}
+{"title":"Die Hard","_id":"91rGJj7o1EbHnhsv","rating":"5"}
+{"title":"Die Hard in the wild","_id":"egkJtx1lAUHiORxz"}
+{"title":"In to the wild","_id":"ejpNyB51J7o72RlP"}
+{"title":"Star Wars: Episode IV - A New Hope","rating":"4.5","_id":"hjXeCBOjYfktF1gl"}
+{"title":"The Life Aquatic with Steve Zissou","_id":"nemADCddUHCxWjNY"}
+{"title":"Indiana Jones and the Temple of Doom","_id":"uMcqVcvvyU4bQvY2"}
+{"$$indexCreated":{"fieldName":"title","unique":true,"sparse":false}}
